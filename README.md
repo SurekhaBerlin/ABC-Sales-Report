@@ -1,14 +1,20 @@
-# ABC-Sales-Report
-Sales Target
-PROBLEM STATEMENT:
-An ABC company has the sales data for the last 3 years and they want to analyze it now. 
-There is a Dimension Data where there is the list of companies and their lines of Business. There are 3 years of sales data. There is also Target Data. 
-Based on the data set given, try to create a dashboard.
-Stakeholders want the following insights in the dashboard:
-Include important KPIs
-Sales over Time
-Sales for various Products
-Manager wise analysis
-Customer coverage across different Locations
-Target Analysis
-These are some of the points stakeholders needed. Also, add your own insights to it.
+![image](https://github.com/SurekhaBerlin/ABC-Sales-Report/assets/35975433/317dd3cb-d148-4196-b919-9f1342431811)
+
+
+![image](https://github.com/SurekhaBerlin/ABC-Sales-Report/assets/35975433/349bda8e-9d1a-45b2-a5c1-18ba02f25369)
+
+
+![image](https://github.com/SurekhaBerlin/ABC-Sales-Report/assets/35975433/133b0ec0-6646-452b-8274-62779a7bcaad)
+
+![image](https://github.com/SurekhaBerlin/ABC-Sales-Report/assets/35975433/2f884bb3-f0c7-4927-83dc-d5ec1522a28e)
+
+
+![image](https://github.com/SurekhaBerlin/ABC-Sales-Report/assets/35975433/df91c1f6-fed0-43f7-b9dc-da0928e1b633)
+
+
+
+![image](https://github.com/SurekhaBerlin/ABC-Sales-Report/assets/35975433/f8d623e4-cfd7-4f71-a3f0-093dd609730e)
+
+
+
+
